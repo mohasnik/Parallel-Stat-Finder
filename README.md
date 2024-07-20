@@ -20,9 +20,9 @@ This repository contains the parallel implementation of finding the standard dev
 
 The goal of this project is to calculate the standard deviation of a large array in parallel. This is useful in scenarios where the data size is large and the computation needs to be efficient. The project includes three different implementations using:
 
-    SIMD (Single Instruction, Multiple Data)
-    OpenMP (Open Multi-Processing)
-    Pthread (POSIX Threads)
+- SIMD (Single Instruction, Multiple Data)
+- OpenMP (Open Multi-Processing)
+- Pthread (POSIX Threads)
 
 ## Project Structure
 
